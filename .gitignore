@@ -1,0 +1,15 @@
+.DS_Store
+.AppleDouble
+*.swp
+*.tmp
+*.log
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+auth.json
+/config.toml
+/fusion.config.toml
+/fusion/luna.toml
